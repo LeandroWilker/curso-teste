@@ -93,7 +93,7 @@ main img {
     width: 100%; 
 }
 main img.pequena {
-    width: 400px;
+    width: 300px;
     display: block;
     margin: auto;
 }
