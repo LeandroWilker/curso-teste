@@ -8,7 +8,7 @@
     format('opentype');
 }
 body {
-    background-color:#ebeac5;
+    background-color:#3ddc8538;
     font-family: var(--fonte-padrao);
 }
 :root {
@@ -161,7 +161,7 @@ aside > h3 {
     border-radius: 10px 10px 0px 0px;
 }
 div.video {
-    background-color: var(--cor5);
+    background-color:#4285f4;
     margin: 0px -20px 30px -20px;
     padding: 20px;
     padding-bottom: 56%;
