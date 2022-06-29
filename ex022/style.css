@@ -27,3 +27,6 @@ caption {
     font-weight: bold;
     font-family:Arial, Helvetica, sans-serif;
 }
+tbody > tr:nth-child(2n) {
+    background-color: lightgray;
+}
